@@ -9,5 +9,4 @@ Este é um projeto simples desenvolvido em Java utilizando os princípios de **P
 - Leitura de dados via `Scanner`
 - IDE recomendada: Eclipse, NetBeans ou Visual Studio Code
 
-## 📦 Estrutura do Projeto
 
